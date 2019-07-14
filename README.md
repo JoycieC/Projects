@@ -20,7 +20,7 @@ description: [Here you'll find a collection of repositories, both forked and unf
 
 **Preview:**
 
- <img src="/PSO2/DeumanPatch/images/deumanpatch.jpg" width="384" height="216" />
+ <img src="https://joyciec.github.io/Projects/PSO2/DeumanPatch/images/deumanpatch.jpg" width="384" height="216" />
 
 **PlayStation 4**
  [PS4 PSO2 Closed Beta Assets](inserturl) (Private)
