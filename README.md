@@ -23,8 +23,12 @@ A modification of the English patch by Arks-Layer to correct various NPC, Enemy,
  <img src="https://joyciec.github.io/Projects/PSO2/DeumanPatch/images/deumanpatch.jpg" width="384" height="216" />
 
 **PlayStation 4**
- [PS4 PSO2 Closed Beta Assets](inserturl) (Private)
-A dump of the PSO2 Closed Beta from the PlayStation 4.
+ [PS4 PSO2 Closed Beta Directory Listing](https://joyciec.github.io/Projects/PSO2/PS4ClosedBetaDirectory/pso2cbhtml.html) (Public)
+A directory listing of the PSO2 Closed Beta from the PlayStation 4. This is intended for research and educational purposes.
+
+ [PS4 PSO2 Closed Beta File Dump](nourl) (Private)
+A complete dump of the Closed Beta from Episode 4 of the PlayStation 4 game, Phantasy Star Online 2.
+This is intended for research and educational purposes.
 
 ### **Nintendo Related**
 
