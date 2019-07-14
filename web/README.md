@@ -64,71 +64,7 @@ https://github.com/BlackrockDigital/startbootstrap-resume
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#about">
-<br>Fantasies can come from wings
-<br>Sometimes it's a nursery tale 
-<br>At other times, it's a gloomy and, stormy night 
-<br> 
-<br>Fantasies can seem so real 
-<br>Because I felt so sad 
-<br>Searching for my own faith, yes I will never give it up 
-<br> 
-<br>We are borderless! 
-<br>Across time and space, we can sail 
-<br>Blaze all borders with you 
-<br>Shining stars waiting for you forever 
-<br>Take me to many planets, if you can do it 
-<br> 
-<br>Fight on past the space frontier 
-<br>Keep on, we are just space travelers 
-<br>We do it for our treasures 
-<br>We are borderless! 
-<br> 
-<br>Fight on past the space frontier 
-<br>Keep on, we are just space travelers 
-<br>Beyond imagination 
-<br>We are borderless! 
-<br> 
-<br>In your eyes, am I alive? 
-<br>Or still I might, not be here now 
-<br>Which one do you choose? 
-<br>Truth is not all there is 
-<br> 
-<br>In your mind, what can you see? 
-<br>It's not clear between, the past and future 
-<br>We have to fight 
-<br> 
-<br>In my eyes, what should I believe? 
-<br>All is the miracle I imagine 
-<br>But I scare them, I wanna break free from my fear! 
-<br> 
-<br>It's not clear between 
-<br>Dreams and reality 
-<br>Oh it's strange, but it's just true 
-<br>We have some visions! 
-<br> 
-<br>Fantasies can come from wings 
-<br>Sometimes it's a nursery tale 
-<br>At other times, it's a gloomy and, stormy night 
-<br> 
-<br>Fantasies can seem so real 
-<br>Because I felt so sad 
-<br>Searching for my own faith, yes I will never give it up 
-<br>
-<br>We are borderless! 
-<br>Across time and space, we can sail 
-<br>Blaze all borders with you 
-<br>Shining stars waiting for you forever 
-<br>Take me to many planets, if you can do it 
-<br> 
-<br>Fight on past the space frontier 
-<br>Keep on, we are just space travellers 
-<br>We do it for our treasures 
-<br>We are borderless! 
-<br> 
-<br>Fight on past the space frontier 
-<br>Keep on, we are just space travellers 
-<br>Beyond imagination 
-<br>We are borderless!﻿</a>
+
         </li>
       </ul>
     </div>
