@@ -10,17 +10,16 @@ Character Guide
  [EPISODE 4 Character Guide ](inserturl) (Private)
  A web based Character Guide, introducing characters from Episode 4 of the PSO2 Story.
  
- <img src="https://bibi.com/bibi.jpg">
- <img src="https://bibi.com/bibi.jpg">
-
- 
- 
  [EPISODE 5 Character Guide ](inserturl) (Public)
  A web based Character Guide, introducing characters from Episode 4 of the PSO2 Story.
  
  [PSO2 Deuman Patch](https://github.com/JoycieC/PSO2-Deuman-Patch) (Private)
  A modification of the English patch by ARKS-Layer to correct various NPC, Enemy, Item and Area names to match their official spelling based on released Merchandise, in-game credits and so forth.
  
+<img src="joyciec.github.io/Projects/PSO2/DeumanPatch/images/deumanpatch.jpg">
+
+![Preview](joyciec.github.io/Projects/PSO2/DeumanPatch/images/deumanpatch.jpg)
+
  [PS4 PSO2 Closed Beta Assets](inserturl) (Private)
  A dump of the PSO2 Closed Beta from the PlayStation 4.
 
