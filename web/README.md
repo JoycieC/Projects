@@ -1,161 +1,65 @@
-`<!DOCTYPE html>
+Fantasies can come from wings
+Sometimes it's a nursery tale 
+At other times, it's a gloomy and, stormy night 
+ 
+Fantasies can seem so real 
+Because I felt so sad 
+Searching for my own faith, yes I will never give it up 
+ 
+We are borderless! 
+Across time and space, we can sail 
+Blaze all borders with you 
+Shining stars waiting for you forever 
+Take me to many planets, if you can do it 
+ 
+Fight on past the space frontier 
+Keep on, we are just space travelers 
+We do it for our treasures 
+We are borderless! 
+ 
+Fight on past the space frontier 
+Keep on, we are just space travelers 
+Beyond imagination 
+We are borderless! 
+ 
+In your eyes, am I alive? 
+Or still I might, not be here now 
+Which one do you choose? 
+Truth is not all there is 
+ 
+In your mind, what can you see? 
+It's not clear between, the past and future 
+We have to fight 
+ 
+In my eyes, what should I believe? 
+All is the miracle I imagine 
+But I scare them, I wanna break free from my fear! 
+ 
+It's not clear between 
+Dreams and reality 
+Oh it's strange, but it's just true 
+We have some visions! 
+ 
+Fantasies can come from wings 
+Sometimes it's a nursery tale 
+At other times, it's a gloomy and, stormy night 
+ 
+Fantasies can seem so real 
+Because I felt so sad 
+Searching for my own faith, yes I will never give it up 
 
-<!-- THIS WAS A QUICK AND DIRTILY PUT TOGETHER PAGE FROM OPEN SOURCE MATERIALS. IT IS NOT INTENDED TO LOOK GREAT, JUST FUNCTION. 
-
-ALL OF THE INFORMATION REGARDING THIS CAN BE FOUND HERE:
-https://github.com/BlackrockDigital/startbootstrap-resume
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--->
-
-<html lang="en">
-<head>
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-
-  <title>PROJECT BY THE A★ TEAM</title>
-
-  <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Custom fonts for this template -->
-  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
-  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-
-  <!-- Custom styles for this template -->
-  <link href="css/resume.min.css" rel="stylesheet">
-
-</head>
-
-<body id="page-top">
-
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">
-      <span class="d-block d-lg-none">PROJECTS</span>
-      <span class="d-none d-lg-block">
-      </span>
-    </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#about">
-
-        </li>
-      </ul>
-    </div>
-  </nav>
-
-  <div class="container-fluid p-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
-      <div class="w-100">
-        <h1 class="mb-0">PHANTASY STAR 
-          <span class="text-primary">ONLINE 2</span>
-        </h1>
-        <div class="subheading mb-5">TOOLS AND RESOURCES
-        </div>
-    			
-<p>Here you'll find a collection of repositories, both forked and unforked.</p>
-
-<h3 id="pso2related"><strong>PSO2 Related</strong></h3>
-
-<p><strong>Character Guides:</strong></p>
-
-<p><a href="inserturl">EPISODE 4 Character Guide </a> (Private)<br>
-A web based Character Guide, introducing characters from Episode 4 of the PSO2 Story.</p>
-
-<p><a href="inserturl">EPISODE 5 Character Guide </a> (Public)<br>	
-A web based Character Guide, introducing characters from Episode 4 of the PSO2 Story.</p>
-
-<p><strong>Translation Related:</strong></p>
-
-<p><a href="https://github.com/JoycieC/PSO2-Deuman-Patch">PSO2 Deuman Patch</a> (Private)<br>
-A modification of the English patch by Arks-Layer to correct various NPC, Enemy, Item and Area names to match their official spelling based on released Merchandise, in-game credits and so forth. This is applied on-top of an existing installation of the Arks-Layer patch, no content from the Arks-Layer patch is included. There is no planned release, if ever.</p>
-
-<p>Preview:</p>
-<style>
-img {
-  border: 1px solid #ddd; /* Gray border */
-  border-radius: 4px;  /* Rounded border */
-  padding: 5px; /* Some padding */
-  width: 300px; /* Set a small width */
-}
-
-/* Add a hover effect (blue shadow) */
-img:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-}
-</style>
-<body>
-
-<a target="_blank" href="Projects/PSO2/DeumanPatch/images/deumanpatch.jpg">
-  <img src="Projects/PSO2/DeumanPatch/images/deumanpatch.jpg" alt="Forest">
-</a>
-<br><br>Download: Coming soon... (maybe)<br><br>
-
-</body>
-
-
-
-<p><a href="/Projects/web/pso2/en-names/embed.html">List of official Character Names</a> (Private)
-A list of all known official English names for characters, objects, areas and items in PSO2 JP.</p>
-
-<p><strong>PlayStation 4</strong></p>
-
-<p><a href="/Projects/PSO2/PS4ClosedBetaDirectory/pso2cbhtml.html">PS4 PSO2 Closed Beta Directory Listing</a> (Public)<br>
-A directory listing of the PSO2 Closed Beta from the PlayStation 4. This is intended for research and educational purposes.</p>
-
-<p><a href="nourl">PS4 PSO2 Closed Beta File Dump</a> (Private)<br>
-A complete dump of the Closed Beta from Episode 4 of the PlayStation 4 game, Phantasy Star Online 2.
-This is intended for research and educational purposes.</p>
-		
-		
-		
-		
-          </a>
-        </div>
-      </div>
-    </section>
-
-    <hr class="m-0">
-	
-  </div>
-
-  <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Plugin JavaScript -->
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-  <!-- Custom scripts for this template -->
-  <script src="js/resume.min.js"></script>
-
-</body>
-
-</html>
+We are borderless! 
+Across time and space, we can sail 
+Blaze all borders with you 
+Shining stars waiting for you forever 
+Take me to many planets, if you can do it 
+ 
+Fight on past the space frontier 
+Keep on, we are just space travellers 
+We do it for our treasures 
+We are borderless! 
+ 
+Fight on past the space frontier 
+Keep on, we are just space travellers 
+Beyond imagination 
+We are borderless!
