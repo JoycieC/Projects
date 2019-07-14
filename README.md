@@ -17,8 +17,9 @@ description: [Here you'll find a collection of repositories, both forked and unf
 **Translation Related:**
  [PSO2 Deuman Patch](https://github.com/JoycieC/PSO2-Deuman-Patch) (Private)
  A modification of the English patch by Arks-Layer to correct various NPC, Enemy, Item and Area names to match their official spelling based on released Merchandise, in-game credits and so forth. This is applied on-top of an existing installation of the Arks-Layer patch, no content from the Arks-Layer patch is included. There is no planned release, if ever.
- 
+
 **Preview:**
+
  <img src="/PSO2/DeumanPatch/images/deumanpatch.jpg" width="384" height="216" />
 
 **PlayStation 4**
