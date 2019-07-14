@@ -1,8 +1,6 @@
 
-### WIP
-
-title: [JoycieC]
-description: [Here you'll find a collection of repositories, both forked and unforked.]
+### Welcome
+Here you'll find a collection of repositories, both forked and unforked.]
  
  
 ### **PSO2 Related**
