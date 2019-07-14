@@ -1,68 +1,225 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
+`<!DOCTYPE html>
 
-[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+<!-- THIS WAS A QUICK AND DIRTILY PUT TOGETHER PAGE FROM OPEN SOURCE MATERIALS. IT IS NOT INTENDED TO LOOK GREAT, JUST FUNCTION. 
 
-## Preview
+ALL OF THE INFORMATION REGARDING THIS CAN BE FOUND HERE:
+https://github.com/BlackrockDigital/startbootstrap-resume
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
-## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-resume.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-resume)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume?type=dev)
 
-## Download and Installation
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/resume/)
-* Install via npm: `npm i startbootstrap-resume`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-resume.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-resume)
 
-## Usage
 
-### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-### Advanced Usage
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-#### Gulp Tasks
 
-- `gulp` the default task that builds everything
-- `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
 
-You must have npm installed globally in order to use this build environment.
 
-## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-resume/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/resume/).
 
-## About
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+-->
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+<html lang="en">
+<head>
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
-## Copyright and License
+  <title>PROJECT BY THE A★ TEAM</title>
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">PROJECTS</span>
+      <span class="d-none d-lg-block">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">
+<br>Fantasies can come from wings
+<br>Sometimes it's a nursery tale 
+<br>At other times, it's a gloomy and, stormy night 
+<br> 
+<br>Fantasies can seem so real 
+<br>Because I felt so sad 
+<br>Searching for my own faith, yes I will never give it up 
+<br> 
+<br>We are borderless! 
+<br>Across time and space, we can sail 
+<br>Blaze all borders with you 
+<br>Shining stars waiting for you forever 
+<br>Take me to many planets, if you can do it 
+<br> 
+<br>Fight on past the space frontier 
+<br>Keep on, we are just space travelers 
+<br>We do it for our treasures 
+<br>We are borderless! 
+<br> 
+<br>Fight on past the space frontier 
+<br>Keep on, we are just space travelers 
+<br>Beyond imagination 
+<br>We are borderless! 
+<br> 
+<br>In your eyes, am I alive? 
+<br>Or still I might, not be here now 
+<br>Which one do you choose? 
+<br>Truth is not all there is 
+<br> 
+<br>In your mind, what can you see? 
+<br>It's not clear between, the past and future 
+<br>We have to fight 
+<br> 
+<br>In my eyes, what should I believe? 
+<br>All is the miracle I imagine 
+<br>But I scare them, I wanna break free from my fear! 
+<br> 
+<br>It's not clear between 
+<br>Dreams and reality 
+<br>Oh it's strange, but it's just true 
+<br>We have some visions! 
+<br> 
+<br>Fantasies can come from wings 
+<br>Sometimes it's a nursery tale 
+<br>At other times, it's a gloomy and, stormy night 
+<br> 
+<br>Fantasies can seem so real 
+<br>Because I felt so sad 
+<br>Searching for my own faith, yes I will never give it up 
+<br>
+<br>We are borderless! 
+<br>Across time and space, we can sail 
+<br>Blaze all borders with you 
+<br>Shining stars waiting for you forever 
+<br>Take me to many planets, if you can do it 
+<br> 
+<br>Fight on past the space frontier 
+<br>Keep on, we are just space travellers 
+<br>We do it for our treasures 
+<br>We are borderless! 
+<br> 
+<br>Fight on past the space frontier 
+<br>Keep on, we are just space travellers 
+<br>Beyond imagination 
+<br>We are borderless!﻿</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-0">PHANTASY STAR 
+          <span class="text-primary">ONLINE 2</span>
+        </h1>
+        <div class="subheading mb-5">TOOLS AND RESOURCES
+        </div>
+    			
+<p>Here you'll find a collection of repositories, both forked and unforked.</p>
+
+<h3 id="pso2related"><strong>PSO2 Related</strong></h3>
+
+<p><strong>Character Guides:</strong></p>
+
+<p><a href="inserturl">EPISODE 4 Character Guide </a> (Private)<br>
+A web based Character Guide, introducing characters from Episode 4 of the PSO2 Story.</p>
+
+<p><a href="inserturl">EPISODE 5 Character Guide </a> (Public)<br>	
+A web based Character Guide, introducing characters from Episode 4 of the PSO2 Story.</p>
+
+<p><strong>Translation Related:</strong></p>
+
+<p><a href="https://github.com/JoycieC/PSO2-Deuman-Patch">PSO2 Deuman Patch</a> (Private)<br>
+A modification of the English patch by Arks-Layer to correct various NPC, Enemy, Item and Area names to match their official spelling based on released Merchandise, in-game credits and so forth. This is applied on-top of an existing installation of the Arks-Layer patch, no content from the Arks-Layer patch is included. There is no planned release, if ever.</p>
+
+<p>Preview:</p>
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 300px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="Projects/PSO2/DeumanPatch/images/deumanpatch.jpg">
+  <img src="Projects/PSO2/DeumanPatch/images/deumanpatch.jpg" alt="Forest">
+</a>
+<br><br>Download: Coming soon... (maybe)<br><br>
+
+</body>
+
+
+
+<p><a href="/Projects/web/pso2/en-names/embed.html">List of official Character Names</a> (Private)
+A list of all known official English names for characters, objects, areas and items in PSO2 JP.</p>
+
+<p><strong>PlayStation 4</strong></p>
+
+<p><a href="/Projects/PSO2/PS4ClosedBetaDirectory/pso2cbhtml.html">PS4 PSO2 Closed Beta Directory Listing</a> (Public)<br>
+A directory listing of the PSO2 Closed Beta from the PlayStation 4. This is intended for research and educational purposes.</p>
+
+<p><a href="nourl">PS4 PSO2 Closed Beta File Dump</a> (Private)<br>
+A complete dump of the Closed Beta from Episode 4 of the PlayStation 4 game, Phantasy Star Online 2.
+This is intended for research and educational purposes.</p>
+		
+		
+		
+		
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+	
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+
+</body>
+
+</html>
