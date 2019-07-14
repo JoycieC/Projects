@@ -1,10 +1,19 @@
 
-### Here you'll find a collection of repositories, both forked and unforked.
+### WIP
 
- **PSO2 Related**
+title: [JoycieC]
+description: [Here you'll find a collection of repositories, both forked and unforked.]
+ 
+  **PSO2 Related**
+
 Character Guide 
  [EPISODE 4 Character Guide ](inserturl) (Private)
  A web based Character Guide, introducing characters from Episode 4 of the PSO2 Story.
+ 
+ <img src="https://bibi.com/bibi.jpg">
+ <img src="https://bibi.com/bibi.jpg">
+
+ 
  
  [EPISODE 5 Character Guide ](inserturl) (Public)
  A web based Character Guide, introducing characters from Episode 4 of the PSO2 Story.
