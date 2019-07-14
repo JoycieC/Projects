@@ -34,5 +34,3 @@ description: [Here you'll find a collection of repositories, both forked and unf
 
  [TWLoader](https://github.com/JoycieC/TWLoader) (Public Forked)
  Provided initial Japanese translations
- 
- theme: jekyll-theme-cayman 
